@@ -13,31 +13,30 @@ redirect_from:
 I am a first year PhD student at MIT, studying computer science with my advisor 
 <a href="https://www.csail.mit.edu/person/john-fisher">John Fisher</a>. I come from a physics undergraduate.<br><br>
 
-I am grateful to 
-<a href="https://physics.byu.edu/department/directory/neilsent">Traci Neilsen</a>
- , 
-<a href="http://kastner.ucsd.edu/ryan/">Ryan Kastner</a>
- , 
-<a href="https://jacobsschool.ucsd.edu/cosmos/curt-schurgers">Curt Schurgers</a>
- ,
-  and especially my undergraduate advisor 
-  <a href="https://www.hillsdale.edu/faculty/timothy-dolch/">Timothy Dolch</a>
-  for their gift of ML research training during my bachelor's in physics at Hillsdale College.
- <br><br>
+I am grateful to
+ <a href="https://physics.byu.edu/department/directory/neilsent">Traci Neilsen</a>
+,
+ <a href="http://kastner.ucsd.edu/ryan/">Ryan Kastner</a>
+,
+ <a href="https://jacobsschool.ucsd.edu/cosmos/curt-schurgers">Curt Schurgers</a>
+, and especially my undergraduate advisor
+ <a href="https://www.hillsdale.edu/faculty/timothy-dolch/">Timothy Dolch</a>
+ for their gift of ML research training during my bachelor's in physics at Hillsdale College.
+<br><br>
 </p>
 </div>
 
 <div><h1>Projects</h1></div>
 <div id="projects">
 	<article>
-		<a class="pub_image"><img src="files/publications/3_unknown_occluders/snapshot.png"></a>
+		<a class="pub_image"><img src="/files/papers/jasa2021/JASA_representative.jpeg"></a>
 		<div class="pub_text">
-			<h3>Borrowed Example for Development of This Site</h3>
+			<h3>Validating deep learning seabed classification via acoustic similarity</h3>
 		    <h4 class="authors"> 
-                Adam B. Yedidia, <b>Manel Baradad</b>, Christos Thrampoulidis, William T. Freeman, Gregory W. Wornell
+			    <b>David J. Forman</b>, Tracianne B. Neilsen, David F. Van Komen, David P. Knobles
 			</h4>
-            <p>CVPR 2019</p>
-			[<a href="https://www.rle.mit.edu/sia/wp-content/uploads/2019/07/2019-yedidia-baradad-thrampoulidis-freeman-wornell-cvpr.pdf">paper</a>]
+            <p>JASA Express Letters 2021</p>
+			[<a href="https://asa.scitation.org/doi/pdf/10.1121/10.0004138">paper</a>]
 		</div>
 	</article>
 	
