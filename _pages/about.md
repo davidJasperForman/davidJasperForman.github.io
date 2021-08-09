@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "excited to be living a technical dream"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="intro">
 <p align="justify">
-I am a first year PhD student at MIT, studying computer science with my fabulous advisor 
+I am a first year PhD student at MIT, studying computer science with my advisor 
 <a href="https://www.csail.mit.edu/person/john-fisher">John Fisher</a>. I come from a physics undergraduate.<br><br>
 
 I am grateful to  
@@ -20,9 +20,9 @@ I am grateful to
  , 
 <a href="https://jacobsschool.ucsd.edu/cosmos/curt-schurgers">Curt Schurgers</a>
  ,
-  and especially my advisor 
+  and especially my undergraduate advisor 
   <a href="https://www.hillsdale.edu/faculty/timothy-dolch/">Timothy Dolch</a>
-  for their gift of ML research training during my undergrad in physics at Hillsdale College.
+  for their gift of ML research training during my bachelor's in physics at Hillsdale College.
  <br><br>
 </p>
 </div>
