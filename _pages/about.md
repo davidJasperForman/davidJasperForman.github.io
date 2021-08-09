@@ -29,7 +29,7 @@ I am grateful to
 <div><h1>Projects</h1></div>
 <div id="projects">
 	<article>
-		<a class="pub_image"><img src="/files/papers/jasa2021/JASA_representative.jpeg"></a>
+		<a class="pub_image"><img src="/files/papers/jasa2021/JASA_representative.jpeg" width="200"></a>
 		<div class="pub_text">
 			<h3>Validating deep learning seabed classification via acoustic similarity</h3>
 		    <h4 class="authors"> 
