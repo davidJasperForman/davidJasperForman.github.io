@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "David Forman"
   avatar           : "profile.png"
-  bio              : "CS Grad Student"
-  location         : "MIT CSAIL"
+  bio              : "CS Grad Student at MIT"
+  location         : #"MIT CSAIL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=g6_AVdgAAAAJ&hl=en"
