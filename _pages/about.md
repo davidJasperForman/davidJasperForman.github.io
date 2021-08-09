@@ -14,16 +14,16 @@ I am a first year PhD student at MIT, studying computer science with my fabulous
 <a href="https://www.csail.mit.edu/person/john-fisher">John Fisher</a>. I come from a physics undergraduate.<br><br>
 
 I am grateful to  
-<a href="https://physics.byu.edu/department/directory/neilsent">Traci Neilsen</a>T
-  , 
+<a href="https://physics.byu.edu/department/directory/neilsent">Traci Neilsen</a>
+ , 
 <a href="http://kastner.ucsd.edu/ryan/">Ryan Kastner</a>
-  , 
+ , 
 <a href="https://jacobsschool.ucsd.edu/cosmos/curt-schurgers">Curt Schurgers</a>
-  ,
+ ,
   and especially my advisor 
   <a href="https://www.hillsdale.edu/faculty/timothy-dolch/">Timothy Dolch</a>
   for their gift of ML research training during my undergrad in physics at Hillsdale College.
-  <br><br>
+ <br><br>
 </p>
 </div>
 
