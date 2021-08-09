@@ -10,8 +10,9 @@ redirect_from:
 
 <div class="intro">
 <p align="justify">
-I am a first year PhD student in computer science at MIT, advised by 
-<a href="https://www.csail.mit.edu/person/john-fisher">John Fisher</a>.<br><br>
+Advised by 
+<a href="https://www.csail.mit.edu/person/john-fisher">John Fisher</a>
+, I am a first year PhD student in computer science at MIT.<br><br>
 
 I am grateful to
  <a href="https://physics.byu.edu/department/directory/neilsent">Traci Neilsen</a>
