@@ -10,8 +10,8 @@ redirect_from:
 
 <div class="intro">
 <p align="justify">
-I am a first year PhD student at MIT, studying computer science with my advisor 
-<a href="https://www.csail.mit.edu/person/john-fisher">John Fisher</a>. I come from a physics undergraduate.<br><br>
+I am a first year PhD student in computer science at MIT, advised by 
+<a href="https://www.csail.mit.edu/person/john-fisher">John Fisher</a>.<br><br>
 
 I am grateful to
  <a href="https://physics.byu.edu/department/directory/neilsent">Traci Neilsen</a>
@@ -29,9 +29,9 @@ I am grateful to
 <div><h1>Projects</h1></div>
 <div id="projects">
 	<article>
-		<a class="pub_image"><img src="/files/papers/jasa2021/JASA_representative.jpeg" width="200"></a>
+		<a class="pub_image"><img src="/files/papers/jasa2021/JASA_representative.jpeg" width="250"></a>
 		<div class="pub_text">
-			<h3>Validating deep learning seabed classification via acoustic similarity</h3>
+			<h3>Validating deep learning seabed classification <br>via acoustic similarity</h3>
 		    <h4 class="authors"> 
 			    <b>David J. Forman</b>, Tracianne B. Neilsen, David F. Van Komen, David P. Knobles
 			</h4>
