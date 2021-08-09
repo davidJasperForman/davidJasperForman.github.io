@@ -14,14 +14,11 @@ Advised by
 <a href="https://www.csail.mit.edu/person/john-fisher">John Fisher</a>, I am a first year PhD student in computer science at MIT.<br><br>
 
 I am grateful to
- <a href="https://physics.byu.edu/department/directory/neilsent">Traci Neilsen</a>
-,
- <a href="http://kastner.ucsd.edu/ryan/">Ryan Kastner</a>
-,
- <a href="https://jacobsschool.ucsd.edu/cosmos/curt-schurgers">Curt Schurgers</a>
-, and especially my undergraduate advisor
+ <a href="https://physics.byu.edu/department/directory/neilsent">Traci Neilsen</a>,
+ <a href="http://kastner.ucsd.edu/ryan/">Ryan Kastner</a>,
+ <a href="https://jacobsschool.ucsd.edu/cosmos/curt-schurgers">Curt Schurgers</a>, and especially my undergraduate advisor
  <a href="https://www.hillsdale.edu/faculty/timothy-dolch/">Timothy Dolch</a>
- for their gift of ML research training during my bachelor's in physics at Hillsdale College.
+for their gift of ML research training during my bachelor's in physics at Hillsdale College.
 <br><br>
 </p>
 </div>
