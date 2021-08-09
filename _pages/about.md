@@ -13,7 +13,7 @@ redirect_from:
 I am a first year PhD student at MIT, studying computer science with my advisor 
 <a href="https://www.csail.mit.edu/person/john-fisher">John Fisher</a>. I come from a physics undergraduate.<br><br>
 
-I am grateful to  
+I am grateful to 
 <a href="https://physics.byu.edu/department/directory/neilsent">Traci Neilsen</a>
  , 
 <a href="http://kastner.ucsd.edu/ryan/">Ryan Kastner</a>
