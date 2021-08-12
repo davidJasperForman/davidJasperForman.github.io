@@ -32,7 +32,7 @@ for their gift of ML research training during my bachelor's in physics at Hillsd
 		    <h4 class="authors"> 
 			    <b>David J. Forman</b>, Tracianne B. Neilsen, David F. Van Komen, David P. Knobles
 			</h4>
-            <p>JASA Express Letters 2021</p>
+            <p>JASA Express Letters 2021<br>*Front Cover*</p>
 			[<a href="https://asa.scitation.org/doi/pdf/10.1121/10.0004138">paper</a>]
 		</div>
 	</article>
@@ -44,7 +44,7 @@ for their gift of ML research training during my bachelor's in physics at Hillsd
 		    <h4 class="authors"> 
 			    <b>David J. Forman</b>, Tracianne B. Neilsen, David F. Van Komen, David P. Knobles
 			</h4>
-            <p>JASA Express Letters 2021</p>
+            <p>JASA Express Letters 2021<br>*Front Cover*</p>
 			[<a href="https://asa.scitation.org/doi/pdf/10.1121/10.0004138">paper</a>]
 		</div>
 	</p> 
