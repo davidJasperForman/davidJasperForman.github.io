@@ -31,10 +31,10 @@ Honors:<br>
 </p>
 </div>
 
-<div><h1>Projects</h1></div>
+<div><h1>Projects</h1><br></div>
 <div id="projects">
-	<article>
-		<a class="pub_image"><img src="/files/papers/jasa2021/JASA_representative.jpeg" width="250"></a>
+<!-- 	<article>
+		<a class="pub_image"><img src="/files/papers/jasa2021/JASA_representative.jpeg" width="400"></a>
 		<div class="pub_text">
 			<h3>Validating deep learning seabed classification <br>via acoustic similarity</h3>
 		    <h4 class="authors"> 
@@ -43,16 +43,16 @@ Honors:<br>
             <p>JASA Express Letters 2021<br>*Front Cover*</p>
 			[<a href="https://asa.scitation.org/doi/pdf/10.1121/10.0004138">paper</a>]
 		</div>
-	</article>
+	</article> -->
 	
 	<p style="width: 800px;">
 	<img src="/files/papers/jasa2021/JASA_representative.jpeg" width="350" style="float: left;" />
 			<div class="pub_text">
-			<h3>Validating deep learning seabed classification <br>via acoustic similarity</h3>
+			<h3>  Validating deep learning seabed classification <br>via acoustic similarity</h3>
 		    <h4 class="authors"> 
-			    <b>David J. Forman</b>, Tracianne B. Neilsen, David F. Van Komen, David P. Knobles
+			    <b>  David J. Forman</b>, Tracianne B. Neilsen, David F. Van Komen, David P. Knobles
 			</h4>
-            <p>JASA Express Letters 2021<br>*Front Cover*</p>
+            <p>  JASA Express Letters 2021<br>  *Front Cover*</p>
 			[<a href="https://asa.scitation.org/doi/pdf/10.1121/10.0004138">paper</a>]
 		</div>
 	</p> 
