@@ -47,10 +47,10 @@ Honors:
 			<div class="pub_text">
 			<h3>  Validating deep learning seabed classification <br>via acoustic similarity</h3>
 		    <h4 class="authors"> 
-			    <b>  David J. Forman</b>, Tracianne B. Neilsen, David F. Van Komen, David P. Knobles
+			    <strong>  David J. Forman</strong>, Tracianne B. Neilsen, David F. Van Komen, David P. Knobles
 			</h4>
-            <p>  JASA Express Letters 2021<br>  *Front Cover*</p>
-			[<a href="https://asa.scitation.org/doi/pdf/10.1121/10.0004138">paper</a>]
+            <p>  JASA Express Letters 2021 [<a href="https://asa.scitation.org/doi/pdf/10.1121/10.0004138">pdf</a>]<br>  *Front Cover*</p>
+			
 		</div>
 	</p> 
 
