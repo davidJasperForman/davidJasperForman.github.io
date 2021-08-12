@@ -20,6 +20,14 @@ I am grateful to
  <a href="https://www.hillsdale.edu/faculty/timothy-dolch/">Timothy Dolch</a>
 for their gift of ML research training during my bachelor's in physics at Hillsdale College.
 <br><br>
+Honors:<br>
+<ul>
+  <li>Finalist for the British Marshall Scholarship</li>
+  <li>Recipient of the Matthew Lorber (1956) Presidential Fellowship at MIT<br>(~120 recipients among the incoming graduate students)</li>
+  <li>Article Featured on the Front Cover of the Journal of the Acoustical Society of America—Express Letters</li>
+</ul>
+<br>
+<br>
 </p>
 </div>
 
