@@ -23,7 +23,8 @@ Honors:
 <ul>
   <li>Front Cover Article for JASA—Express Letters (deep learning in acoustics)</li>
   <li>Finalist for the British Marshall Scholarship</li>
-  <li>Recipient of the Matthew Lorber (1956) Presidential Fellowship at MIT<br>(~120 recipients among the incoming graduate students)</li>
+<!--   <li>Recipient of the Matthew Lorber (1956) Presidential Fellowship at MIT<br>(~120 recipients among the incoming graduate students)</li> -->
+<li>Winner of the Oxford Barry Scholarship</li>
 </ul>
 </p>
 </div>
@@ -42,7 +43,7 @@ Honors:
 	</article> -->
 	
 	<p style="width: 950px;">
-	<img src="/files/papers/jasa2021/JASA_representative.jpeg" width="350" style="float: left;" HSPACE=”10” VSPACE = "10"/>
+	<img src="/files/papers/jasa2021/JASA_representative.jpeg" width="350" style="float: left;" />
 			<div class="pub_text">
 			<h3>Validating deep learning seabed classification <br>via acoustic similarity</h3>
 		    <h4 class="authors"> 
