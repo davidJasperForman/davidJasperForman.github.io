@@ -31,7 +31,7 @@ Honors:<br>
 </p>
 </div>
 
-<div><h1>Projects</h1><br></div>
+<div><h1>Projects</h1></div>
 <div id="projects">
 <!-- 	<article>
 		<a class="pub_image"><img src="/files/papers/jasa2021/JASA_representative.jpeg" width="400"></a>
