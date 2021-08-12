@@ -50,7 +50,6 @@ Honors:
 			    <strong>&nbsp;David J. Forman</strong>, Tracianne B. Neilsen, David F. Van Komen, David P. Knobles
 			</h4>
             <p>&nbsp;JASA Express Letters 2021 [<a href="https://asa.scitation.org/doi/pdf/10.1121/10.0004138">pdf</a>]<br>&nbsp;*Front Cover*</p>
-			
 		</div>
 	</p> 
 
