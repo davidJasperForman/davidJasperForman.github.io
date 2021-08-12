@@ -26,8 +26,6 @@ Honors:<br>
   <li>Recipient of the Matthew Lorber (1956) Presidential Fellowship at MIT<br>(~120 recipients among the incoming graduate students)</li>
   <li>Article Featured on the Front Cover of the Journal of the Acoustical Society of America—Express Letters</li>
 </ul>
-<br>
-<br>
 </p>
 </div>
 
