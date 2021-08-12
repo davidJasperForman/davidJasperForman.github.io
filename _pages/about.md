@@ -19,7 +19,7 @@ I am grateful to
  <a href="https://www.hillsdale.edu/faculty/timothy-dolch/">Timothy Dolch</a>
 for their gift of ML research training during my bachelor's in physics at Hillsdale College.
 <br><br>
-Honors:
+Distinctions:
 <ul>
   <li>Front Cover Article for JASA—Express Letters (deep learning in acoustics)</li>
   <li>Winner of the Oxford Barry Scholarship</li>
