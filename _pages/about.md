@@ -26,7 +26,7 @@ Distinctions:
   <li>Finalist for the British Marshall Scholarship</li>
 <!--   <li>Recipient of the Matthew Lorber (1956) Presidential Fellowship at MIT<br>(~120 recipients among the incoming graduate students)</li> -->
 
-</ul><br>
+</ul><br><br>
 </p>
 </div>
 
