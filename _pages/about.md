@@ -46,7 +46,7 @@ Honors:<br>
 	</article> -->
 	
 	<p style="width: 800px;">
-	<img src="/files/papers/jasa2021/JASA_representative.jpeg" width="350" style="float: left;" />
+	<img src="/files/papers/jasa2021/JASA_representative.jpeg" width="450" style="float: left;" />
 			<div class="pub_text">
 			<h3>  Validating deep learning seabed classification <br>via acoustic similarity</h3>
 		    <h4 class="authors"> 
