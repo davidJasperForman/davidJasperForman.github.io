@@ -4,7 +4,9 @@ main:
     url: /publications/
 
   - title: "Presentations"
-    url: /talks/    
+    url: "https://scholar.google.com/citations?user=g6_AVdgAAAAJ&hl=en"
+    #url: /talks/  
+
     
    # - title: "Code"
    # url: /code/  Get this working!
