@@ -22,7 +22,7 @@ for their gift of ML research training during my bachelor's in physics at Hillsd
 <br><br>
 Honors:
 <ul>
-  <li>Front Cover Article for the Journal of the Acoustical Society of America—Express Letters</li>
+  <li>Front Cover Article for JASA—Express Letters (deep learning in acoustics)</li>
   <li>Finalist for the British Marshall Scholarship</li>
   <li>Recipient of the Matthew Lorber (1956) Presidential Fellowship at MIT<br>(~120 recipients among the incoming graduate students)</li>
 </ul>
