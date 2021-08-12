@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="intro">
 <p align="justify">
-I am a first year PhD student in computer science at MIT EECS, advised by <a href="https://www.csail.mit.edu/person/john-fisher">John Fisher</a>. <br><br>
+I am a PhD student in computer science at MIT EECS, beginning research in computer visino advised by <a href="https://www.csail.mit.edu/person/john-fisher">John Fisher</a>. <br><br>
 
 I am grateful to
  <a href="https://physics.byu.edu/department/directory/neilsent">Traci Neilsen</a>,
