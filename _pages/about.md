@@ -22,9 +22,10 @@ for their gift of ML research training during my bachelor's in physics at Hillsd
 Honors:
 <ul>
   <li>Front Cover Article for JASA—Express Letters (deep learning in acoustics)</li>
+  <li>Winner of the Oxford Barry Scholarship</li>
   <li>Finalist for the British Marshall Scholarship</li>
 <!--   <li>Recipient of the Matthew Lorber (1956) Presidential Fellowship at MIT<br>(~120 recipients among the incoming graduate students)</li> -->
-<li>Winner of the Oxford Barry Scholarship</li>
+
 </ul>
 </p>
 </div>
