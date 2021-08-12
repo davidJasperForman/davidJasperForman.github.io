@@ -12,12 +12,12 @@ redirect_from:
 <p align="justify">
 I am a PhD student in computer science at MIT EECS, beginning research in computer visino advised by <a href="https://www.csail.mit.edu/person/john-fisher">John Fisher</a>. <br><br>
 
-I am grateful to
+I would like to acknowledge the personal and professional support of
  <a href="https://physics.byu.edu/department/directory/neilsent">Traci Neilsen</a>,
  <a href="http://kastner.ucsd.edu/ryan/">Ryan Kastner</a>,
  <a href="https://jacobsschool.ucsd.edu/cosmos/curt-schurgers">Curt Schurgers</a>, and especially my undergraduate advisor
  <a href="https://www.hillsdale.edu/faculty/timothy-dolch/">Timothy Dolch</a>
-for their gift of ML research training during my bachelor's in physics at Hillsdale College.
+ during my undergrad in physics at Hillsdale College.
 <br><br>
 Distinctions:
 <ul>
