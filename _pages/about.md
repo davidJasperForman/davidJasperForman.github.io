@@ -17,7 +17,7 @@ I would like to acknowledge the personal and professional support of
  <a href="http://kastner.ucsd.edu/ryan/">Ryan Kastner</a>,
  <a href="https://jacobsschool.ucsd.edu/cosmos/curt-schurgers">Curt Schurgers</a>, and especially my undergraduate advisor
  <a href="https://www.hillsdale.edu/faculty/timothy-dolch/">Timothy Dolch</a>
- during my undergrad in physics at Hillsdale College.
+ during my bachelor's in physics at Hillsdale College.
 <br><br>
 Distinctions:
 <ul>
