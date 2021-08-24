@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=g6_AVdgAAAAJ
 
-  - title: "Presentations"
-    url: /talks/
+#   - title: "Presentations"
+#     url: /talks/
     #url: /talks/  
 
     
