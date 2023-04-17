@@ -55,7 +55,7 @@ Distinctions:
 
 	
 	<p style="width: 950px;">
-	<iframe width="350" height="197"
+	<iframe width="100" height="65"
 	src="https://www.youtube.com/embed/S0gpuPKP4lI?start=43">
 	</iframe>
 			<div class="pub_text">
@@ -66,13 +66,13 @@ Distinctions:
 		</div>
 	</p> 
 	
-	<tr>
+<!-- 	<tr>
 		<td "><div><a><img class="teaser_img" src="/files/papers/jasa2021/JASA_representative.jpeg"></a></div></td>
 		<td"><b>Persistent Nature: A Generative Model of Unbounded 3D Worlds
 		</b><br><i>Lucy Chai, Richard Tucker, Zhengqi Li, Phillip Isola, Noah Snavely</i>.
 		<br>Conference on Computer Vision and Pattern Recognition, 2023
 		<br>[<a href="https://arxiv.org/abs/2303.13515">Paper</a>][<a href="https://chail.github.io/persistent-nature/">Website</a>][<a href="https://github.com/google-research/google-research/tree/master/persistent-nature">Code</a>]
 		</td>
-	</tr>
+	</tr> -->
 
 </div>
