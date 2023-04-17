@@ -55,7 +55,7 @@ Distinctions:
 
 	
 	<p style="width: 950px;">
-	<iframe width="350" height="197" style="float: left; padding: 10px;" src="https://www.youtube.com/embed/S0gpuPKP4lI?start=43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+	<iframe width="350" height="197" style="float: left; padding: 10px;" src="https://www.youtube.com/embed/S0gpuPKP4lI?start=43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" >
 	</iframe>
 			<div class="pub_text">
 			<h3>Efficient geospatial segmentation using interactive machine learning for labelers</h3>
