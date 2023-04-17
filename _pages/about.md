@@ -54,6 +54,8 @@ Distinctions:
 		</div>
 	</p> 
 
+
+<!-- 
 	<article>
         <a classa="pub_image"><img src="files/papers/jasa2021/JASA_representative.jpeg"></a>
         <div class="pub_text">
@@ -88,5 +90,5 @@ Distinctions:
 		<br>[<a href="https://arxiv.org/abs/2303.13515">Paper</a>][<a href="https://chail.github.io/persistent-nature/">Website</a>][<a href="https://github.com/google-research/google-research/tree/master/persistent-nature">Code</a>]
 		</td>
 	</tr> -->
-
+ -->
 </div>
