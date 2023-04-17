@@ -31,7 +31,8 @@ Distinctions:
 </div>
 
 <div><h1>Highlighted Work</h1></div>
-<div id="projects">
+<!-- <div id="projects"> -->
+<div id="publications">
 <!-- 	<article>
 		<a class="pub_image"><img src="/files/papers/jasa2021/JASA_representative.jpeg" width="400"></a>
 		<div class="pub_text">
