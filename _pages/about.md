@@ -22,9 +22,9 @@ I would like to acknowledge the personal and professional support of
 Distinctions:
 <ul>
   <li>Front Cover Article for JASA—Express Letters (deep learning in acoustics)</li>
-  <li>Winner of the Oxford Barry Scholarship</li>
+  <!-- <li>Winner of the Oxford Barry Scholarship</li> -->
+ <li>Recipient of the Matthew Lorber (1956) Presidential Fellowship at MIT</li> 
   <li>Finalist for the British Marshall Scholarship</li>
-<!--   <li>Recipient of the Matthew Lorber (1956) Presidential Fellowship at MIT<br>(~120 recipients among the incoming graduate students)</li> -->
 
 </ul><br>
 </p>
@@ -90,5 +90,5 @@ Distinctions:
 		<br>[<a href="https://arxiv.org/abs/2303.13515">Paper</a>][<a href="https://chail.github.io/persistent-nature/">Website</a>][<a href="https://github.com/google-research/google-research/tree/master/persistent-nature">Code</a>]
 		</td>
 	</tr> -->
- -->
+
 </div>
